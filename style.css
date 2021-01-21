@@ -1,0 +1,26 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
+
+#header{
+   background-color: #cee30e;
+   font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.navbar ul li{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   list-style: none;
+  
+ 
+}
+
+ul li{
+   flex-direction: row;
+}
+
+#profile {
+background-image: url(/image/foto1.jpg)
+
+}
